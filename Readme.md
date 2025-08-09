@@ -1,7 +1,6 @@
 # gitbot
 
 [![PyPI Version](https://img.shields.io/pypi/v/gitbot)](https://pypi.org/project/gitbot)  
-[![License](https://img.shields.io/github/license/parikshit-06/gitbot)](LICENSE)
 
 ## Overview
 
