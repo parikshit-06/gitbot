@@ -1,7 +1,6 @@
 # gitbot
 
 [![PyPI Version](https://img.shields.io/pypi/v/gitbot)](https://pypi.org/project/gitbot)  
-[![Build Status](https://github.com/parikshit-06/gitbot/actions/workflows/ci.yml/badge.svg)](https://github.com/parikshit-06/gitbot/actions)  
 [![License](https://img.shields.io/github/license/parikshit-06/gitbot)](LICENSE)
 
 ## Overview
@@ -64,13 +63,5 @@ gitbot --sync
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgements
-
-Inspired by the need for smarter Git workflow automation and context-aware helpers.
-
-```
 
 ---
