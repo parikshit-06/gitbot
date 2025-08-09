@@ -1,4 +1,4 @@
-from gitbot.repo import parse_git_status, generate_commit_message, git_sync
+from gitbotx.repo import parse_git_status, generate_commit_message, git_sync
 
 def suggest_commands(status):
     if status is None:
