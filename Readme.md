@@ -1,10 +1,10 @@
-# gitbot
+# gitbotx
 
-[![PyPI Version](https://img.shields.io/pypi/v/gitbot)](https://pypi.org/project/gitbot)  
+[![PyPI Version](https://img.shields.io/pypi/v/gitbotx)](https://pypi.org/project/gitbotx)  
 
 ## Overview
 
-**gitbot** is a lightweight, context-aware CLI tool designed to analyze the current state of your Git repository and provide actionable suggestions for your next Git commands. It also helps automate common workflows such as syncing branches and generating commit messages, saving you time and reducing errors.
+**gitbotx** is a lightweight, context-aware CLI tool designed to analyze the current state of your Git repository and provide actionable suggestions for your next Git commands. It also helps automate common workflows such as syncing branches and generating commit messages, saving you time and reducing errors.
 
 ---
 
@@ -24,14 +24,14 @@
 Install from PyPI:
 
 ```bash
-pip install gitbot
+pip install gitbotx
 ````
 
 Or install from source:
 
 ```bash
-git clone https://github.com/parikshit-06/gitbot.git
-cd gitbot
+git clone https://github.com/parikshit-06/gitbotx.git
+cd gitbotx
 pip install -e .
 ```
 
@@ -42,19 +42,19 @@ pip install -e .
 Run the tool inside a Git repository folder:
 
 ```bash
-gitbot --status
+gitbotx --status
 ```
 
 Get a suggested commit message based on staged changes:
 
 ```bash
-gitbot --commit-msg
+gitbotx --commit-msg
 ```
 
 Automatically fetch, rebase, and push your branch:
 
 ```bash
-gitbot --sync
+gitbotx --sync
 ```
 
 ---
